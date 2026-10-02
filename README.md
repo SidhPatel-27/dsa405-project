@@ -8,4 +8,4 @@ The data comes from 2 sources
 1. Sports Reference LLC
 2. Wikipedia Foundation
 
-To Run the code, simply, download the latest .ipynb file committed and run it through Google Collab. 
+To Run the code, simply, click the latest .ipynb file committed and run it through Google Collab. 
