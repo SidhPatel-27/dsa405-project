@@ -1,0 +1,158 @@
+Pos,Grp,Team,Pld,W,D,L,GF,GA,GD,Pts,Final result,Tournament_Year
+1.0,G,Germany,7.0,6.0,1.0,0.0,18.0,4.0,+14,19.0,Champions,2014
+2.0,F,Argentina,7.0,5.0,1.0,1.0,8.0,4.0,+4,16.0,Runners-up,2014
+3.0,B,Netherlands,7.0,5.0,2.0,0.0,15.0,4.0,+11,17.0,Third place,2014
+4.0,A,Brazil (H),7.0,3.0,2.0,2.0,11.0,14.0,−3,11.0,Fourth place,2014
+,,,,,,,,,,,,2014
+5.0,C,Colombia,5.0,4.0,0.0,1.0,12.0,4.0,+8,12.0,Eliminated in quarter-finals,2014
+6.0,H,Belgium,5.0,4.0,0.0,1.0,6.0,3.0,+3,12.0,Eliminated in quarter-finals,2014
+7.0,E,France,5.0,3.0,1.0,1.0,10.0,3.0,+7,10.0,Eliminated in quarter-finals,2014
+8.0,D,Costa Rica,5.0,2.0,3.0,0.0,5.0,2.0,+3,9.0,Eliminated in quarter-finals,2014
+,,,,,,,,,,,,2014
+9.0,B,Chile,4.0,2.0,1.0,1.0,6.0,4.0,+2,7.0,Eliminated in round of 16,2014
+10.0,A,Mexico,4.0,2.0,1.0,1.0,5.0,3.0,+2,7.0,Eliminated in round of 16,2014
+11.0,E,Switzerland,4.0,2.0,0.0,2.0,7.0,7.0,0,6.0,Eliminated in round of 16,2014
+12.0,D,Uruguay,4.0,2.0,0.0,2.0,4.0,6.0,−2,6.0,Eliminated in round of 16,2014
+13.0,C,Greece,4.0,1.0,2.0,1.0,3.0,5.0,−2,5.0,Eliminated in round of 16,2014
+14.0,H,Algeria,4.0,1.0,1.0,2.0,7.0,7.0,0,4.0,Eliminated in round of 16,2014
+15.0,G,United States,4.0,1.0,1.0,2.0,5.0,6.0,−1,4.0,Eliminated in round of 16,2014
+16.0,F,Nigeria,4.0,1.0,1.0,2.0,3.0,5.0,−2,4.0,Eliminated in round of 16,2014
+,,,,,,,,,,,,2014
+17.0,E,Ecuador,3.0,1.0,1.0,1.0,3.0,3.0,0,4.0,Eliminated in group stage,2014
+18.0,G,Portugal,3.0,1.0,1.0,1.0,4.0,7.0,−3,4.0,Eliminated in group stage,2014
+19.0,A,Croatia,3.0,1.0,0.0,2.0,6.0,6.0,0,3.0,Eliminated in group stage,2014
+20.0,F,Bosnia and Herzegovina,3.0,1.0,0.0,2.0,4.0,4.0,0,3.0,Eliminated in group stage,2014
+21.0,C,Ivory Coast,3.0,1.0,0.0,2.0,4.0,5.0,−1,3.0,Eliminated in group stage,2014
+22.0,D,Italy,3.0,1.0,0.0,2.0,2.0,3.0,−1,3.0,Eliminated in group stage,2014
+23.0,B,Spain,3.0,1.0,0.0,2.0,4.0,7.0,−3,3.0,Eliminated in group stage,2014
+24.0,H,Russia,3.0,0.0,2.0,1.0,2.0,3.0,−1,2.0,Eliminated in group stage,2014
+25.0,G,Ghana,3.0,0.0,1.0,2.0,4.0,6.0,−2,1.0,Eliminated in group stage,2014
+26.0,D,England,3.0,0.0,1.0,2.0,2.0,4.0,−2,1.0,Eliminated in group stage,2014
+27.0,H,South Korea,3.0,0.0,1.0,2.0,3.0,6.0,−3,1.0,Eliminated in group stage,2014
+28.0,F,Iran,3.0,0.0,1.0,2.0,1.0,4.0,−3,1.0,Eliminated in group stage,2014
+29.0,C,Japan,3.0,0.0,1.0,2.0,2.0,6.0,−4,1.0,Eliminated in group stage,2014
+30.0,B,Australia,3.0,0.0,0.0,3.0,3.0,9.0,−6,0.0,Eliminated in group stage,2014
+31.0,E,Honduras,3.0,0.0,0.0,3.0,1.0,8.0,−7,0.0,Eliminated in group stage,2014
+32.0,A,Cameroon,3.0,0.0,0.0,3.0,1.0,9.0,−8,0.0,Eliminated in group stage,2014
+1,C,France,7.0,6.0,1.0,0.0,14.0,6.0,+8,19.0,Champions,2018
+2,D,Croatia,7.0,4.0,2.0,1.0,14.0,9.0,+5,14.0,Runners-up,2018
+3,G,Belgium,7.0,6.0,0.0,1.0,16.0,6.0,+10,18.0,Third place,2018
+4,G,England,7.0,3.0,1.0,3.0,12.0,8.0,+4,10.0,Fourth place,2018
+,,,,,,,,,,,,2018
+5,A,Uruguay,5.0,4.0,0.0,1.0,7.0,3.0,+4,12.0,Eliminated in quarter-finals,2018
+6,E,Brazil,5.0,3.0,1.0,1.0,8.0,3.0,+5,10.0,Eliminated in quarter-finals,2018
+7,F,Sweden,5.0,3.0,0.0,2.0,6.0,4.0,+2,9.0,Eliminated in quarter-finals,2018
+8,A,Russia (H),5.0,2.0,2.0,1.0,11.0,7.0,+4,8.0,Eliminated in quarter-finals,2018
+,,,,,,,,,,,,2018
+9,H,Colombia,4.0,2.0,1.0,1.0,6.0,3.0,+3,7.0,Eliminated in round of 16,2018
+10,B,Spain,4.0,1.0,3.0,0.0,7.0,6.0,+1,6.0,Eliminated in round of 16,2018
+11,C,Denmark,4.0,1.0,3.0,0.0,3.0,2.0,+1,6.0,Eliminated in round of 16,2018
+12,F,Mexico,4.0,2.0,0.0,2.0,3.0,6.0,−3,6.0,Eliminated in round of 16,2018
+13,B,Portugal,4.0,1.0,2.0,1.0,6.0,6.0,0,5.0,Eliminated in round of 16,2018
+14,E,Switzerland,4.0,1.0,2.0,1.0,5.0,5.0,0,5.0,Eliminated in round of 16,2018
+15,H,Japan,4.0,1.0,1.0,2.0,6.0,7.0,−1,4.0,Eliminated in round of 16,2018
+16,D,Argentina,4.0,1.0,1.0,2.0,6.0,9.0,−3,4.0,Eliminated in round of 16,2018
+,,,,,,,,,,,,2018
+17,H,Senegal,3.0,1.0,1.0,1.0,4.0,4.0,0,4.0,Eliminated in group stage,2018
+18,B,Iran,3.0,1.0,1.0,1.0,2.0,2.0,0,4.0,Eliminated in group stage,2018
+19,F,South Korea,3.0,1.0,0.0,2.0,3.0,3.0,0,3.0,Eliminated in group stage,2018
+20,C,Peru,3.0,1.0,0.0,2.0,2.0,2.0,0,3.0,Eliminated in group stage,2018
+21,D,Nigeria,3.0,1.0,0.0,2.0,3.0,4.0,−1,3.0,Eliminated in group stage,2018
+=22,F,Germany,3.0,1.0,0.0,2.0,2.0,4.0,−2,3.0,Eliminated in group stage,2018
+=22,E,Serbia,3.0,1.0,0.0,2.0,2.0,4.0,−2,3.0,Eliminated in group stage,2018
+24,G,Tunisia,3.0,1.0,0.0,2.0,5.0,8.0,−3,3.0,Eliminated in group stage,2018
+25,H,Poland,3.0,1.0,0.0,2.0,2.0,5.0,−3,3.0,Eliminated in group stage,2018
+26,A,Saudi Arabia,3.0,1.0,0.0,2.0,2.0,7.0,−5,3.0,Eliminated in group stage,2018
+27,B,Morocco,3.0,0.0,1.0,2.0,2.0,4.0,−2,1.0,Eliminated in group stage,2018
+=28,C,Australia,3.0,0.0,1.0,2.0,2.0,5.0,−3,1.0,Eliminated in group stage,2018
+=28,E,Costa Rica,3.0,0.0,1.0,2.0,2.0,5.0,−3,1.0,Eliminated in group stage,2018
+=28,D,Iceland,3.0,0.0,1.0,2.0,2.0,5.0,−3,1.0,Eliminated in group stage,2018
+31,A,Egypt,3.0,0.0,0.0,3.0,2.0,6.0,−4,0.0,Eliminated in group stage,2018
+32,G,Panama,3.0,0.0,0.0,3.0,2.0,11.0,−9,0.0,Eliminated in group stage,2018
+1.0,C,Argentina,7.0,4.0,2.0,1.0,15.0,8.0,+7,14.0,Champions,2022
+2.0,D,France,7.0,5.0,1.0,1.0,16.0,8.0,+8,16.0,Runners-up,2022
+3.0,F,Croatia,7.0,2.0,4.0,1.0,8.0,7.0,+1,10.0,Third place,2022
+4.0,F,Morocco,7.0,3.0,2.0,2.0,6.0,5.0,+1,11.0,Fourth place,2022
+,,,,,,,,,,,,2022
+5.0,A,Netherlands,5.0,3.0,2.0,0.0,10.0,4.0,+6,11.0,Eliminated in quarter-finals,2022
+6.0,B,England,5.0,3.0,1.0,1.0,13.0,4.0,+9,10.0,Eliminated in quarter-finals,2022
+7.0,G,Brazil,5.0,3.0,1.0,1.0,8.0,3.0,+5,10.0,Eliminated in quarter-finals,2022
+8.0,H,Portugal,5.0,3.0,0.0,2.0,12.0,6.0,+6,9.0,Eliminated in quarter-finals,2022
+,,,,,,,,,,,,2022
+9.0,E,Japan,4.0,2.0,1.0,1.0,5.0,4.0,+1,7.0,Eliminated in round of 16,2022
+10.0,A,Senegal,4.0,2.0,0.0,2.0,5.0,7.0,−2,6.0,Eliminated in round of 16,2022
+11.0,D,Australia,4.0,2.0,0.0,2.0,4.0,6.0,−2,6.0,Eliminated in round of 16,2022
+12.0,G,Switzerland,4.0,2.0,0.0,2.0,5.0,9.0,−4,6.0,Eliminated in round of 16,2022
+13.0,E,Spain,4.0,1.0,2.0,1.0,9.0,3.0,+6,5.0,Eliminated in round of 16,2022
+14.0,B,United States,4.0,1.0,2.0,1.0,3.0,4.0,−1,5.0,Eliminated in round of 16,2022
+15.0,C,Poland,4.0,1.0,1.0,2.0,3.0,5.0,−2,4.0,Eliminated in round of 16,2022
+16.0,H,South Korea,4.0,1.0,1.0,2.0,5.0,8.0,−3,4.0,Eliminated in round of 16,2022
+,,,,,,,,,,,,2022
+17.0,E,Germany,3.0,1.0,1.0,1.0,6.0,5.0,+1,4.0,Eliminated in group stage,2022
+18.0,A,Ecuador,3.0,1.0,1.0,1.0,4.0,3.0,+1,4.0,Eliminated in group stage,2022
+19.0,G,Cameroon,3.0,1.0,1.0,1.0,4.0,4.0,0,4.0,Eliminated in group stage,2022
+20.0,H,Uruguay,3.0,1.0,1.0,1.0,2.0,2.0,0,4.0,Eliminated in group stage,2022
+21.0,D,Tunisia,3.0,1.0,1.0,1.0,1.0,1.0,0,4.0,Eliminated in group stage,2022
+22.0,C,Mexico,3.0,1.0,1.0,1.0,2.0,3.0,−1,4.0,Eliminated in group stage,2022
+23.0,F,Belgium,3.0,1.0,1.0,1.0,1.0,2.0,−1,4.0,Eliminated in group stage,2022
+24.0,H,Ghana,3.0,1.0,0.0,2.0,5.0,7.0,−2,3.0,Eliminated in group stage,2022
+25.0,C,Saudi Arabia,3.0,1.0,0.0,2.0,3.0,5.0,−2,3.0,Eliminated in group stage,2022
+26.0,B,Iran,3.0,1.0,0.0,2.0,4.0,7.0,−3,3.0,Eliminated in group stage,2022
+27.0,E,Costa Rica,3.0,1.0,0.0,2.0,3.0,11.0,−8,3.0,Eliminated in group stage,2022
+28.0,D,Denmark,3.0,0.0,1.0,2.0,1.0,3.0,−2,1.0,Eliminated in group stage,2022
+29.0,G,Serbia,3.0,0.0,1.0,2.0,5.0,8.0,−3,1.0,Eliminated in group stage,2022
+30.0,B,Wales,3.0,0.0,1.0,2.0,1.0,6.0,−5,1.0,Eliminated in group stage,2022
+31.0,F,Canada,3.0,0.0,0.0,3.0,2.0,7.0,−5,0.0,Eliminated in group stage,2022
+32.0,A,Qatar (H),3.0,0.0,0.0,3.0,1.0,7.0,−6,0.0,Eliminated in group stage,2022
+1,H,Spain,8.0,7.0,1.0,0.0,14.0,1.0,+13,22.0,Champion,2026
+2,J,Argentina,8.0,7.0,0.0,1.0,19.0,8.0,+11,21.0,Runner-up,2026
+3,L,England,8.0,6.0,1.0,1.0,20.0,12.0,+8,19.0,Third place,2026
+4,I,France,8.0,6.0,0.0,2.0,20.0,10.0,+10,18.0,Fourth place,2026
+,,,,,,,,,,,,2026
+5,I,Norway,6.0,4.0,0.0,2.0,13.0,11.0,+2,12.0,Eliminated in quarterfinals,2026
+6,G,Belgium,6.0,3.0,2.0,1.0,14.0,7.0,+7,11.0,Eliminated in quarterfinals,2026
+=7,C,Morocco,6.0,3.0,2.0,1.0,10.0,6.0,+4,11.0,Eliminated in quarterfinals,2026
+=7,B,Switzerland,6.0,3.0,2.0,1.0,10.0,6.0,+4,11.0,Eliminated in quarterfinals,2026
+,,,,,,,,,,,,2026
+9,A,Mexico (H),5.0,4.0,0.0,1.0,10.0,3.0,+7,12.0,Eliminated in round of 16,2026
+10,K,Colombia,5.0,3.0,2.0,0.0,5.0,1.0,+4,11.0,Eliminated in round of 16,2026
+11,C,Brazil,5.0,3.0,1.0,1.0,10.0,4.0,+6,10.0,Eliminated in round of 16,2026
+12,D,United States (H),5.0,3.0,0.0,2.0,11.0,8.0,+3,9.0,Eliminated in round of 16,2026
+13,K,Portugal,5.0,2.0,2.0,1.0,8.0,3.0,+5,8.0,Eliminated in round of 16,2026
+14,B,Canada (H),5.0,2.0,1.0,2.0,9.0,6.0,+3,7.0,Eliminated in round of 16,2026
+15,G,Egypt,5.0,1.0,3.0,1.0,8.0,7.0,+1,6.0,Eliminated in round of 16,2026
+16,D,Paraguay,5.0,1.0,2.0,2.0,3.0,6.0,−3,5.0,Eliminated in round of 16,2026
+,,,,,,,,,,,,2026
+17,F,Netherlands,4.0,2.0,2.0,0.0,11.0,5.0,+6,8.0,Eliminated in round of 32,2026
+18,E,Germany,4.0,2.0,1.0,1.0,11.0,5.0,+6,7.0,Eliminated in round of 32,2026
+19,E,Ivory Coast,4.0,2.0,0.0,2.0,5.0,4.0,+1,6.0,Eliminated in round of 32,2026
+20,L,Croatia,4.0,2.0,0.0,2.0,6.0,7.0,−1,6.0,Eliminated in round of 32,2026
+21,F,Japan,4.0,1.0,2.0,1.0,8.0,5.0,+3,5.0,Eliminated in round of 32,2026
+22,D,Australia,4.0,1.0,2.0,1.0,3.0,3.0,0,5.0,Eliminated in round of 32,2026
+23,K,DR Congo,4.0,1.0,1.0,2.0,5.0,5.0,0,4.0,Eliminated in round of 32,2026
+24,L,Ghana,4.0,1.0,1.0,2.0,2.0,3.0,−1,4.0,Eliminated in round of 32,2026
+=25,E,Ecuador,4.0,1.0,1.0,2.0,2.0,4.0,−2,4.0,Eliminated in round of 32,2026
+=25,A,South Africa,4.0,1.0,1.0,2.0,2.0,4.0,−2,4.0,Eliminated in round of 32,2026
+27,F,Sweden,4.0,1.0,1.0,2.0,7.0,10.0,−3,4.0,Eliminated in round of 32,2026
+28,J,Austria,4.0,1.0,1.0,2.0,6.0,9.0,−3,4.0,Eliminated in round of 32,2026
+29,B,Bosnia and Herzegovina,4.0,1.0,1.0,2.0,5.0,8.0,−3,4.0,Eliminated in round of 32,2026
+30,J,Algeria,4.0,1.0,1.0,2.0,5.0,9.0,−4,4.0,Eliminated in round of 32,2026
+31,I,Senegal,4.0,1.0,0.0,3.0,10.0,9.0,+1,3.0,Eliminated in round of 32,2026
+32,H,Cape Verde,4.0,0.0,3.0,1.0,4.0,5.0,−1,3.0,Eliminated in round of 32,2026
+,,,,,,,,,,,,2026
+33,G,Iran,3.0,0.0,3.0,0.0,3.0,3.0,0,3.0,Eliminated in group stage,2026
+34,A,South Korea,3.0,1.0,0.0,2.0,2.0,3.0,−1,3.0,Eliminated in group stage,2026
+35,D,Turkey,3.0,1.0,0.0,2.0,3.0,5.0,−2,3.0,Eliminated in group stage,2026
+36,C,Scotland,3.0,1.0,0.0,2.0,1.0,4.0,−3,3.0,Eliminated in group stage,2026
+37,H,Uruguay,3.0,0.0,2.0,1.0,3.0,4.0,−1,2.0,Eliminated in group stage,2026
+38,H,Saudi Arabia,3.0,0.0,2.0,1.0,1.0,5.0,−4,2.0,Eliminated in group stage,2026
+39,A,Czech Republic,3.0,0.0,1.0,2.0,2.0,6.0,−4,1.0,Eliminated in group stage,2026
+40,G,New Zealand,3.0,0.0,1.0,2.0,4.0,10.0,−6,1.0,Eliminated in group stage,2026
+41,B,Qatar,3.0,0.0,1.0,2.0,2.0,10.0,−8,1.0,Eliminated in group stage,2026
+42,E,Curaçao,3.0,0.0,1.0,2.0,1.0,9.0,−8,1.0,Eliminated in group stage,2026
+43,L,Panama,3.0,0.0,0.0,3.0,0.0,4.0,−4,0.0,Eliminated in group stage,2026
+44,J,Jordan,3.0,0.0,0.0,3.0,3.0,8.0,−5,0.0,Eliminated in group stage,2026
+45,C,Haiti,3.0,0.0,0.0,3.0,2.0,8.0,−6,0.0,Eliminated in group stage,2026
+46,K,Uzbekistan,3.0,0.0,0.0,3.0,2.0,11.0,−9,0.0,Eliminated in group stage,2026
+47,F,Tunisia,3.0,0.0,0.0,3.0,2.0,12.0,−10,0.0,Eliminated in group stage,2026
+48,I,Iraq,3.0,0.0,0.0,3.0,1.0,12.0,−11,0.0,Eliminated in group stage,2026
